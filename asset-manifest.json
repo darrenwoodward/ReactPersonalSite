@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/darrenwoodward/ReactPersonalSite/static/css/main.1b244257.chunk.css",
+    "main.js": "/darrenwoodward/ReactPersonalSite/static/js/main.3a25ccfa.chunk.js",
+    "main.js.map": "/darrenwoodward/ReactPersonalSite/static/js/main.3a25ccfa.chunk.js.map",
+    "runtime-main.js": "/darrenwoodward/ReactPersonalSite/static/js/runtime-main.ce34d62d.js",
+    "runtime-main.js.map": "/darrenwoodward/ReactPersonalSite/static/js/runtime-main.ce34d62d.js.map",
+    "static/js/2.67d7d62f.chunk.js": "/darrenwoodward/ReactPersonalSite/static/js/2.67d7d62f.chunk.js",
+    "static/js/2.67d7d62f.chunk.js.map": "/darrenwoodward/ReactPersonalSite/static/js/2.67d7d62f.chunk.js.map",
+    "index.html": "/darrenwoodward/ReactPersonalSite/index.html",
+    "precache-manifest.a11aead00af240800972964265f37bf2.js": "/darrenwoodward/ReactPersonalSite/precache-manifest.a11aead00af240800972964265f37bf2.js",
+    "service-worker.js": "/darrenwoodward/ReactPersonalSite/service-worker.js",
+    "static/css/main.1b244257.chunk.css.map": "/darrenwoodward/ReactPersonalSite/static/css/main.1b244257.chunk.css.map",
+    "static/js/2.67d7d62f.chunk.js.LICENSE.txt": "/darrenwoodward/ReactPersonalSite/static/js/2.67d7d62f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce34d62d.js",
+    "static/js/2.67d7d62f.chunk.js",
+    "static/css/main.1b244257.chunk.css",
+    "static/js/main.3a25ccfa.chunk.js"
+  ]
+}
