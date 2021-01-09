@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/darrenwoodward/ReactPersonalSite/static/css/main.1b244257.chunk.css",
-    "main.js": "/darrenwoodward/ReactPersonalSite/static/js/main.3a25ccfa.chunk.js",
-    "main.js.map": "/darrenwoodward/ReactPersonalSite/static/js/main.3a25ccfa.chunk.js.map",
+    "main.js": "/darrenwoodward/ReactPersonalSite/static/js/main.7f0f4238.chunk.js",
+    "main.js.map": "/darrenwoodward/ReactPersonalSite/static/js/main.7f0f4238.chunk.js.map",
     "runtime-main.js": "/darrenwoodward/ReactPersonalSite/static/js/runtime-main.ce34d62d.js",
     "runtime-main.js.map": "/darrenwoodward/ReactPersonalSite/static/js/runtime-main.ce34d62d.js.map",
-    "static/js/2.67d7d62f.chunk.js": "/darrenwoodward/ReactPersonalSite/static/js/2.67d7d62f.chunk.js",
-    "static/js/2.67d7d62f.chunk.js.map": "/darrenwoodward/ReactPersonalSite/static/js/2.67d7d62f.chunk.js.map",
+    "static/js/2.d920a289.chunk.js": "/darrenwoodward/ReactPersonalSite/static/js/2.d920a289.chunk.js",
+    "static/js/2.d920a289.chunk.js.map": "/darrenwoodward/ReactPersonalSite/static/js/2.d920a289.chunk.js.map",
     "index.html": "/darrenwoodward/ReactPersonalSite/index.html",
-    "precache-manifest.a11aead00af240800972964265f37bf2.js": "/darrenwoodward/ReactPersonalSite/precache-manifest.a11aead00af240800972964265f37bf2.js",
+    "precache-manifest.ae9e6eca97ab043de0730f37acd011d4.js": "/darrenwoodward/ReactPersonalSite/precache-manifest.ae9e6eca97ab043de0730f37acd011d4.js",
     "service-worker.js": "/darrenwoodward/ReactPersonalSite/service-worker.js",
     "static/css/main.1b244257.chunk.css.map": "/darrenwoodward/ReactPersonalSite/static/css/main.1b244257.chunk.css.map",
-    "static/js/2.67d7d62f.chunk.js.LICENSE.txt": "/darrenwoodward/ReactPersonalSite/static/js/2.67d7d62f.chunk.js.LICENSE.txt"
+    "static/js/2.d920a289.chunk.js.LICENSE.txt": "/darrenwoodward/ReactPersonalSite/static/js/2.d920a289.chunk.js.LICENSE.txt",
+    "static/media/IMG-Me.JPEG": "/darrenwoodward/ReactPersonalSite/static/media/IMG-Me.3955fb68.JPEG",
+    "static/media/img-9.jpg": "/darrenwoodward/ReactPersonalSite/static/media/img-9.523a89f6.jpg",
+    "static/media/video-1.mp4": "/darrenwoodward/ReactPersonalSite/static/media/video-1.df15c3e1.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.ce34d62d.js",
-    "static/js/2.67d7d62f.chunk.js",
+    "static/js/2.d920a289.chunk.js",
     "static/css/main.1b244257.chunk.css",
-    "static/js/main.3a25ccfa.chunk.js"
+    "static/js/main.7f0f4238.chunk.js"
   ]
 }
