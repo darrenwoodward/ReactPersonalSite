@@ -11,13 +11,13 @@ class Cards extends React.Component {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-Me.jpeg'
+              src={require('../images/IMG-Me.JPEG')}
               text='Learn a little bit about who I am'
               label='The Basics'
               path='/services'
             />
             <CardItem
-              src='images/img-9.jpg'
+              src={require('../images/img-9.jpg')}
               text='Discover how I was once a VP and CEO at the same time'
               label='Work Experience'
               path='/services'
@@ -25,14 +25,14 @@ class Cards extends React.Component {
           </ul>
           <ul className='cards__items'>
           <CardItem
-              src='images/img-2.jpg'
+              src={require('../images/img-9.jpg')}
               text='Check out a few of the projects that I have worked on'
               label='Previous Work'
               path='/services'
             />
           
             <CardItem
-              src='images/img-3.jpg'
+              src={require('../images/img-9.jpg')}
               text='I have many hobbies and I am very passionate about them. Maybe we even have a few in common'
               label='Intrests & Hobbies'
               path='/services'

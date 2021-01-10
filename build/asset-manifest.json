@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactPersonalSite/static/css/main.1b244257.chunk.css",
+    "main.js": "/ReactPersonalSite/static/js/main.9a8c62e2.chunk.js",
+    "main.js.map": "/ReactPersonalSite/static/js/main.9a8c62e2.chunk.js.map",
+    "runtime-main.js": "/ReactPersonalSite/static/js/runtime-main.e73c3d32.js",
+    "runtime-main.js.map": "/ReactPersonalSite/static/js/runtime-main.e73c3d32.js.map",
+    "static/js/2.d920a289.chunk.js": "/ReactPersonalSite/static/js/2.d920a289.chunk.js",
+    "static/js/2.d920a289.chunk.js.map": "/ReactPersonalSite/static/js/2.d920a289.chunk.js.map",
+    "index.html": "/ReactPersonalSite/index.html",
+    "precache-manifest.eb4e17f47d3ac087aa51255da42bfaa4.js": "/ReactPersonalSite/precache-manifest.eb4e17f47d3ac087aa51255da42bfaa4.js",
+    "service-worker.js": "/ReactPersonalSite/service-worker.js",
+    "static/css/main.1b244257.chunk.css.map": "/ReactPersonalSite/static/css/main.1b244257.chunk.css.map",
+    "static/js/2.d920a289.chunk.js.LICENSE.txt": "/ReactPersonalSite/static/js/2.d920a289.chunk.js.LICENSE.txt",
+    "static/media/IMG-Me.JPEG": "/ReactPersonalSite/static/media/IMG-Me.3955fb68.JPEG",
+    "static/media/img-9.jpg": "/ReactPersonalSite/static/media/img-9.523a89f6.jpg",
+    "static/media/video-1.mp4": "/ReactPersonalSite/static/media/video-1.df15c3e1.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e73c3d32.js",
+    "static/js/2.d920a289.chunk.js",
+    "static/css/main.1b244257.chunk.css",
+    "static/js/main.9a8c62e2.chunk.js"
+  ]
+}
